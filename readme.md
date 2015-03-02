@@ -1,4 +1,4 @@
-Android-Take-Photo-From-Camera-and-Gallery-Code-Sample
+Android-Location-Info-Code-Sample
 ======================================================
 Main objective of this tutorial is to help you to get location information.
 
